@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>EXO - GROUPE - 12-01-24</title>
+</head>
+<body>
+    
+    <div class="slider">
+        <img class="active img_slide" src="https://picsum.photos/200/300?random=1" alt="Image 01">
+        <!-- classList.remove va supprimer la classe active de count[0] -->
+        <!-- count++ va incrémenter/ou décrémenter, donc la classe 'active' va passer à l'image count[1] - random=2 -->
+        <img class="img_slide" src="https://picsum.photos/200/300?random=2" alt="Image 02">
+        <img class="img_slide" src="https://picsum.photos/200/300?random=3" alt="Image 03">
+    </div>
+    
+    <button class="btn" id="prev">Précédent</button>
+    <button class="btn" id="next">Suivant</button>
+
+    <script src="slider.js" ></script>
+</body>
+</html>

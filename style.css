@@ -1,0 +1,30 @@
+/* Exercice de groupe */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.slider img {
+    display: none;
+}
+
+.img_slide.active {
+    display: block;
+}
+
+/* Autre solution pour la ligne 21 */
+/* .slider>img.active {
+    display: block;
+} */
+
+
