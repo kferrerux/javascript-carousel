@@ -2,7 +2,7 @@
 ![jscarousel](https://github.com/kferrerux/javascript-carousel/assets/77007630/e72efc5b-cdd6-417b-b8ac-6165b7f9782c)
 
 # Exercice 1 : Création de la Structure de Base
-**Objectif : Préparer la structure HTML et le style CSS pour votre carrousel d'images.**
+# Objectif : Préparer la structure HTML et le style CSS pour votre carrousel d'images.
 
 **Instructions :**
 
