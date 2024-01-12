@@ -44,7 +44,7 @@ Initialisez une variable count à 0 pour suivre l'image actuellement affichée.
 Liez le JavaScript à votre HTML : Revenez à votre fichier HTML et ajoutez un lien vers votre script JavaScript avant la fermeture du corps (</body>).
 
 # Exercice 3 : Implémentation de la Navigation
-**Objectif : Rendre fonctionnels les boutons "Précédent" et "Suivant" pour naviguer entre les images.**
+# Objectif : Rendre fonctionnels les boutons "Précédent" et "Suivant" pour naviguer entre les images.
 
 **Instructions :**
 
