@@ -23,7 +23,7 @@ Ajoutez une règle pour que l'image avec la classe active soit affichée (displa
 Liez le CSS à votre HTML : Revenez à votre fichier HTML et ajoutez un lien vers votre feuille de style CSS dans l'en-tête (<head>).
 
 # Exercice 2 : Préparation pour la Navigation
-**Objectif : Ajouter des boutons pour naviguer dans le carrousel et préparer le fichier JavaScript.**
+# Objectif : Ajouter des boutons pour naviguer dans le carrousel et préparer le fichier JavaScript.
 
 **Instructions :**
 
